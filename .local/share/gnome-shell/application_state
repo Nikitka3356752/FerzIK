@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="0" last-seen="1695912500"/>
+    <application id="org.gnome.Nautilus.desktop" score="113" last-seen="1695926399"/>
+    <application id="snap-store_snap-store.desktop" score="34" last-seen="1695919395"/>
+    <application id="gkbd-keyboard-display.desktop" score="1" last-seen="1695919155"/>
+    <application id="gnome-initial-setup.desktop" score="23" last-seen="1695912489"/>
+    <application id="yelp.desktop" score="8" last-seen="1695919385"/>
+    <application id="org.gnome.Terminal.desktop" score="1065" last-seen="1695927510"/>
+    <application id="gnome-language-selector.desktop" score="13" last-seen="1695919562"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1695913592"/>
+    <application id="update-manager.desktop" score="0" last-seen="1695912175"/>
+  </context>
+</application-state>

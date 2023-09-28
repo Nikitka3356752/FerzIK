@@ -1,0 +1,90 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "innotek GmbH",
+    "Product": "VirtualBox",
+    "Family": "Virtual Machine"
+  },
+  "BIOS": {
+    "Vendor": "innotek GmbH",
+    "Version": "VirtualBox"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "1",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "AuthenticAMD",
+    "Family": "23",
+    "Model": "24",
+    "Stepping": "1",
+    "Name": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx",
+    "Hypervisor": "KVM",
+    "VirtualizationType": "full"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "15ad",
+      "Model": "0405"
+    }
+  ],
+  "RAM": 2.9,
+  "Disks": [
+    21.6
+  ],
+  "Partitions": [
+    20.1,
+    0.5,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "0mmx0mm",
+      "Resolution": "800x600",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "ru_RU",
+  "Timezone": "Asia/Yekaterinburg",
+  "Install": {
+    "Media": "Ubuntu 20.04.6 LTS \"Focal Fossa\" - Release amd64 (20230316)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "ru",
+    "Minimal": true,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "2": "language",
+      "45": "console_setup",
+      "53": "prepare",
+      "92": "partman",
+      "124": "partman",
+      "131": "partman",
+      "133": "partman",
+      "138": "partman",
+      "141": "partman",
+      "148": "partman",
+      "149": "partman",
+      "150": "partman",
+      "151": "partman",
+      "155": "partman",
+      "158": "start_install",
+      "168": "timezone",
+      "172": "usersetup",
+      "207": "user_done",
+      "733": "done"
+    }
+  }
+}
