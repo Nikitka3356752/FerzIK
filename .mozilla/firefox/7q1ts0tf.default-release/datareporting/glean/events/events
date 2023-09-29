@@ -1,0 +1,2 @@
+{"timestamp":12143571,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment-a","enrollment_id":"355e5250-8544-4a55-a401-7a3748c7fb95","experiment_type":"rollout","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":12143661,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"2864e59f-01d4-4c98-a0c6-5cc448c5ea98","experiment_type":"rollout","branch":"treatment","experiment":"upgrade-spotlight-rollout"}}
